@@ -1,0 +1,148 @@
+geography_name,, unique_id, state, rai_national_total_2016_q4, city
+6000,"City Delivery Centre
+Perth
+Perth Gpo",1977,WA,115.3846154,Greater Perth
+6003,"Highgate
+Northbridge",1978,WA,124.7401247,Greater Perth
+6004,East Perth,1979,WA,115.3846154,Greater Perth
+6005,"Kings Park
+West Perth",1980,WA,115.3846154,Greater Perth
+6006,North Perth,1981,WA,119.8801199,Greater Perth
+6007,,1982,WA,115.3846154,Greater Perth
+6008,,1983,WA,102.5641026,Greater Perth
+6009,,1984,WA,94.19152276,Greater Perth
+6010,,1985,WA,87.91208791,Greater Perth
+6011,,1986,WA,90.49773756,Greater Perth
+6012,,1987,WA,131.8681319,Greater Perth
+6014,,1988,WA,139.8601399,Greater Perth
+6015,,1989,WA,65.93406593,Greater Perth
+6016,,1990,WA,121.4574899,Greater Perth
+6017,,1991,WA,177.5147929,Greater Perth
+6018,,1992,WA,107.3345259,Greater Perth
+6019,,1993,WA,116.8451801,Greater Perth
+6020,,1994,WA,102.5641026,Greater Perth
+6021,,1995,WA,124.7401247,Greater Perth
+6022,,1996,WA,117.589417,Greater Perth
+6023,,1997,WA,102.5641026,Greater Perth
+6024,,1998,WA,121.4574899,Greater Perth
+6025,,1999,WA,115.3846154,Greater Perth
+6026,,2000,WA,100.3344482,Greater Perth
+6027,,2001,WA,131.8681319,Greater Perth
+6028,,2002,WA,109.8901099,Greater Perth
+6029,,2003,WA,null,Greater Perth
+6030,,2004,WA,131.8681319,Greater Perth
+6031,,2005,WA,131.8681319,Greater Perth
+6032,,2006,WA,null,Greater Perth
+6033,,2007,WA,null,Greater Perth
+6035,,2008,WA,153.8461538,Greater Perth
+6036,,2009,WA,144.2307692,Greater Perth
+6037,,2010,WA,153.8461538,Greater Perth
+6050,,2015,WA,156.4537158,Greater Perth
+6051,,2016,WA,159.1511936,Greater Perth
+6052,,2017,WA,130.9328969,Greater Perth
+6053,,2018,WA,128.2051282,Greater Perth
+6054,,2019,WA,136.7521368,Greater Perth
+6055,,2020,WA,131.8681319,Greater Perth
+6056,,2021,WA,148.8833747,Greater Perth
+6057,,2022,WA,121.4574899,Greater Perth
+6058,,2023,WA,128.2051282,Greater Perth
+6059,,2024,WA,135.7466063,Greater Perth
+6060,,2025,WA,148.8833747,Greater Perth
+6061,,2026,WA,139.8601399,Greater Perth
+6062,,2027,WA,131.8681319,Greater Perth
+6063,,2028,WA,126.4488936,Greater Perth
+6064,,2029,WA,139.8601399,Greater Perth
+6065,,2030,WA,115.3846154,Greater Perth
+6066,,2031,WA,131.8681319,Greater Perth
+6067,,2032,WA,null,Greater Perth
+6068,,2033,WA,null,Greater Perth
+6069,,2034,WA,131.8681319,Greater Perth
+6070,,2035,WA,106.1007958,Greater Perth
+6071,,2036,WA,null,Greater Perth
+6072,,2037,WA,null,Greater Perth
+6073,,2038,WA,null,Greater Perth
+6074,,2039,WA,null,Greater Perth
+6076,,2040,WA,120.6636501,Greater Perth
+6077,,2041,WA,null,Greater Perth
+6078,,2042,WA,null,Greater Perth
+6079,,2043,WA,null,Greater Perth
+6081,,2044,WA,null,Greater Perth
+6082,,2045,WA,null,Greater Perth
+6083,,2046,WA,null,Rest of WA
+6084,,2047,WA,118.3431953,Rest of WA
+6090,,2048,WA,null,Greater Perth
+6100,,2049,WA,131.8681319,Greater Perth
+6101,,2050,WA,128.2051282,Greater Perth
+6102,,2051,WA,153.8461538,Greater Perth
+6103,,2052,WA,139.8601399,Greater Perth
+6104,,2053,WA,131.8681319,Greater Perth
+6105,,2054,WA,139.8601399,Greater Perth
+6106,,2055,WA,null,Greater Perth
+6107,,2056,WA,135.7466063,Greater Perth
+6108,,2057,WA,137.7726751,Greater Perth
+6109,,2058,WA,159.1511936,Greater Perth
+6110,,2059,WA,153.8461538,Greater Perth
+6111,,2060,WA,164.8351648,Greater Perth
+6112,,2061,WA,153.8461538,Greater Perth
+6121,,2062,WA,null,Greater Perth
+6122,,2063,WA,131.8681319,Greater Perth
+6123,,2064,WA,null,Greater Perth
+6124,,2065,WA,null,Greater Perth
+6125,,2066,WA,null,Greater Perth
+6126,,2067,WA,null,Greater Perth
+6147,,2068,WA,153.8461538,Greater Perth
+6148,,2069,WA,121.4574899,Greater Perth
+6149,,2070,WA,109.8901099,Greater Perth
+6150,,2071,WA,239.7602398,Greater Perth
+6151,,2072,WA,121.4574899,Greater Perth
+6152,,2073,WA,131.8681319,Greater Perth
+6153,,2074,WA,102.5641026,Greater Perth
+6154,,2075,WA,102.5641026,Greater Perth
+6155,,2076,WA,115.3846154,Greater Perth
+6156,,2077,WA,116.1103048,Greater Perth
+6157,,2078,WA,131.8681319,Greater Perth
+6158,,2079,WA,123.0769231,Greater Perth
+6159,,2080,WA,83.91608392,Greater Perth
+6160,,2081,WA,120.6636501,Greater Perth
+6161,,2082,WA,null,Greater Perth
+6162,,2083,WA,109.8901099,Greater Perth
+6163,,2084,WA,131.8681319,Greater Perth
+6164,,2085,WA,123.0769231,Greater Perth
+6165,,2086,WA,null,Greater Perth
+6166,,2087,WA,107.3345259,Greater Perth
+6167,,2088,WA,153.8461538,Greater Perth
+6168,,2089,WA,153.8461538,Greater Perth
+6169,,2090,WA,148.8833747,Greater Perth
+6170,,2091,WA,139.8601399,Greater Perth
+6171,,2092,WA,135.7466063,Greater Perth
+6172,,2093,WA,125.588697,Greater Perth
+6173,,2094,WA,119.8801199,Greater Perth
+6174,,2095,WA,131.8681319,Greater Perth
+6175,,2096,WA,135.7466063,Greater Perth
+6176,,2097,WA,null,Greater Perth
+6180,,2098,WA,139.8601399,Greater Perth
+6181,,2099,WA,null,Greater Perth
+6182,,2100,WA,null,Greater Perth
+6207,,2101,WA,null,Greater Perth
+6208,,2102,WA,153.8461538,Greater Perth
+6209,,2103,WA,null,Greater Perth
+6210,,2104,WA,153.8461538,Greater Perth
+6211,,2105,WA,148.8833747,Greater Perth
+6213,,2106,WA,null,Rest of WA
+6214,,2107,WA,null,Greater Perth
+6215,,2108,WA,146.5201465,Rest of WA
+6302,,2143,WA,153.8461538,Rest of WA
+6304,,2144,WA,null,Rest of WA
+6308,,2146,WA,null,Rest of WA
+6390,,2188,WA,159.1511936,Rest of WA
+6391,,2189,WA,null,Rest of WA
+6501,,2237,WA,null,Rest of WA
+6503,,2239,WA,null,Rest of WA
+6556,,2261,WA,null,Greater Perth
+6558,,2262,WA,null,Greater Perth
+6560,,2263,WA,null,Rest of WA
+6562,,2264,WA,null,Rest of WA
+6566,,2266,WA,null,Rest of WA
+6567,,2267,WA,null,Rest of WA
+6907,,2310,WA,null,Greater Perth
+,,,,,
